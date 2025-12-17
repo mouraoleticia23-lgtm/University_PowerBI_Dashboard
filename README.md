@@ -5,6 +5,8 @@ Key Features & Insights: • Student Overview: Tracking total student count, gen
 
 Technologies used:
 • Power BI for data modeling and visualization.
-• DAX (Data Analysis Expressions): used for calculating complex metrics like Average GPA and Graduation Rate %.
+• DAX: used for calculating complex metrics like Average GPA and Graduation Rate %.
 • Power Query: For data cleaning and transformation (ETL).
-• Dataset: University academic records (Anonymized).
+• Dataset: University academic records (anonymized).
+
+https://app.powerbi.com/view?r=eyJrIjoiNmI4Y2NiZjAtZmRiYi00MmUyLTkyMzAtYWE5MDY2M2RmNDZlIiwidCI6IjEzOGNjYzA2LTUxNmItNGU4MS04ODEzLTA2ZmQyNTMxYmRkYyIsImMiOjh9
